@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5FA85DF9-47B9-912F-B530-95B67398EAA8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
